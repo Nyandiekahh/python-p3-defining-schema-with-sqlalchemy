@@ -17,4 +17,3 @@ if __name__ == '__main__':
         print(f"Table '{table_name}' exists in database '{db_name}'.")
     else:
         print(f"Table '{table_name}' does not exist in database '{db_name}'.")
-
